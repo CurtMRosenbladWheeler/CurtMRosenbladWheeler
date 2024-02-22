@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img src="https://github.com/CurtMRosenbladWheeler/CurtMRosenbladWheeler/blob/main/dji_fly_20221029_193436_471_1667089027875_photo_optimized.jpeg"  />
 </div>
 
 ###
