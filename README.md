@@ -140,7 +140,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CurtMRosenbladWheeler/CurtMRosenbladWheeler/output/snake.svg" alt="Snake animation" />
-
-###
