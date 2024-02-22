@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/CurtMRosenbladWheeler/CurtMRosenbladWheeler/blob/main/dji_fly_20221029_193436_471_1667089027875_photo_optimized.jpeg"  />
-</div>
-
 ###
 
 <h1 align="left">👋 Hello there, I'm Curt Rosenblad-Wheeler.</h1>
