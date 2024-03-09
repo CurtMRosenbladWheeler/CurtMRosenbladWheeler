@@ -115,3 +115,14 @@
 </div>
 
 ###
+
+<h3 align="left">🌎 Other Languages:</h3>
+
+###
+  <a href="">US English</a>
+  <a href="">Español</a>
+  <a href="">Svenska</a>
+  <a href="">Русский</a>
+  <a href="">中国人</a>
+###
+
