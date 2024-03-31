@@ -8,7 +8,15 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Curt Rosenblad-Wheeler, a passionate Machine Learning Engineer and Researcher with a deep love for technology and sailing. With twelve years of coding experience under my belt (I started coding when I was five), I'm self-taught and proficient in many programming languages, including Python, C++, C, Go, Rust, Swift, Kotlin, Java, and web technologies like HTML and CSS (including TailwindCSS).<br><br>🚀 Currently, my focus lies in the realm of generative AI, where I'm exploring innovative ways to push the boundaries of artificial intelligence. As the co-founder and CTO of Vibe Platforms, I lead our technological endeavors, guiding the development of cutting-edge solutions to drive innovation and enhance user experiences.<br><br>⛵ When I'm not immersed in technology, you'll likely find me out on the water, indulging my passion for sailing. I've been racing competitively for seven years, starting with the Optimist Sailboat and progressing to the Club 420 (C420) and Nacra 15.<br><br>💻 I'm currently looking for internships in computer science, particularly those involving artificial intelligence. If you're interested in collaborating or have an exciting opportunity to discuss, feel free to reach out—I'm always eager to connect with like-minded individuals and contribute to meaningful projects.<br><br>
+👋 I'm Curt Rosenblad-Wheeler, a Machine Learning Engineer and Researcher interested in computer science and competitive sailing. I started coding at five and have developed skills in Python, C++, C, Go, Rust, and web technologies, including HTML, CSS, and TailwindCSS.
+
+🚀 My focus is artificial intelligence (AI), including multimodal anomaly classification and mitigation, large language models (LLMs), and much more. As Vibe Platforms' co-founder and CTO, I manage our technological endeavors and develop innovative technologies (our first product launching soon).
+
+⛵ Beyond technology, I am active in competitive sailing, participating in regattas across Optimist, Club 420 (C420), and Nacra 15 classes for eight years.
+
+🌐 I am bilingual in Svenska and English and am expanding my linguistic capabilities by learning Español, Русский, and 中文.
+
+💻 I'm looking for computer science internships, preferably in AI. I welcome collaborations and discussions about potential opportunities. Feel free to reach out if you have project ideas or want to connect.
 
 ###
 
