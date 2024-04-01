@@ -1,6 +1,6 @@
 ###
 
-# 👋 Hello there, I'm Curt Rosenblad-Wheeler.
+# 👋 Hello, I'm Curt Rosenblad-Wheeler.
 
 ###
 
