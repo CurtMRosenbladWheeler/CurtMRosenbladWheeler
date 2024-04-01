@@ -119,10 +119,10 @@
 ### 🌎 Otros idiomas:
 
 ###
-  [Inglés](README.md)
+  [English](README.md)
   [Español](README-ES.md)
-  [Sueco](README-SV.md)
-  [Ruso](README-RU.md)
-  [Chino](README-ZH.md)
+  [Svenska](README-SV.md)
+  [Русский](README-RU.md)
+  [中国人](README-ZH.md)
 ###
 
