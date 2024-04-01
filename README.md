@@ -1,10 +1,10 @@
 ###
 
-<h1 align="left">👋 Hello there, I'm Curt Rosenblad-Wheeler.</h1>
+# 👋 Hello there, I'm Curt Rosenblad-Wheeler.
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+### 👨‍💻  About Me
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Language and tools
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<h3 align="left">📊   My Statistics:</h3>
+### My Statistics:
 
 ###
 
@@ -116,13 +116,13 @@
 
 ###
 
-<h3 align="left">🌎 Other Languages:</h3>
+### 🌎 Other Languages:
 
 ###
-  <a href="">US English</a>
-  <a href="">Español</a>
-  <a href="">Svenska</a>
-  <a href="">Русский</a>
-  <a href="">中国人</a>
+  [English](README.md)
+  [Español](README-ES.md)
+  [Svenska](README-SV.md)
+  [Русский](README-RU.md)
+  [中国人](README-ZH.md)
 ###
 
