@@ -1,1 +1,1 @@
-AI Researcher, flounder, computer scientist.
+AI Researcher, founder, and computer scientist.
