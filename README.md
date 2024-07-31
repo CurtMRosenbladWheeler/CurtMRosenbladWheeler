@@ -1,1 +1,1 @@
-I like AI research.
+AI Researcher, flounder, computer scientist.
